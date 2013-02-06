@@ -306,7 +306,8 @@ above, they are simply XML files in the Plist format.
 
 Follow these steps to perform the conversion:
 
-    - Select ``Json to tmLanguage`` in **Tools | Build System**
+    - Save file as a ``.JSON-tmLanguage`` file
+    - Select ``Automatic`` in **Tools | Build System**
     - Press :kbd:`F7`
     - A ``.tmLanguage`` file will be generated for you in the same folder as your
       ``.JSON-tmLanguage`` file
